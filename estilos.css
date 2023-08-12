@@ -250,9 +250,61 @@ header a:hover{
 
 }
 
+#historia .img-historia1{
+    background-image:url(./img/messi-copa-1.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px;
+}
 
+#historia .img-historia2{
+    background-image:url(./img/messi-copa-2.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px;
+}
 
+#historia .img-historia3{
+    background-image:url(./img/messi-sub20.png);
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px;
+}
 
+#historia .img-historia4{
+    background-image:url(./img/messi-copa-america.png);
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px;
+}
+
+#historia .img-historia5{
+    background-image:url(./img/messi-champions.png);
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px;
+}
+
+#historia .img-historia6{
+    background-image:url(./img/messi-bdo.png);
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px;
+}
+
+#historia .img-historia7{
+    background-image:url(./img/messi-bota-oro.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px;
+}
 
 
 
